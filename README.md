@@ -2,7 +2,7 @@
 
 ## Project info
 
-**URL**: https://allprice-lp.juanpablosilva.com.br/
+**URL**: https://allprice.app.br/
 
 ## What technologies are used for this project?
 
