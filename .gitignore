@@ -13,6 +13,7 @@ dist-ssr
 dist.zip
 *.local
 *.production
+backup.md
 
 # Editor directories and files
 .vscode/*
