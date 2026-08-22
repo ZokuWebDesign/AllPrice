@@ -5,8 +5,14 @@
   "type": "module",
   "scripts": {
     "dev": "vite",
-    "build": "vite build",
+    "build": "npm run build:linux",
+    "build:linux": "npm run clean:linux && vite build",
+    "build:windows": "npm run clean:windows && vite build",
     "build:dev": "vite build --mode development",
+    "clean": "npm run clean:linux",
+    "clean:linux": "rm -rf dist",
+    "clean:windows": "powershell -ExecutionPolicy Bypass -File build-clean.ps1",
+    "clean:fallback": "node -e \"try { require('fs').rmSync('dist', { recursive: true, force: true }); } catch (e) { console.log('Clean completed'); }\"",
     "lint": "eslint .",
     "preview": "vite preview"
   },
