@@ -33,7 +33,7 @@ const FeatureImageOne = () => {
             <div 
               className="w-full h-[320px] sm:h-[500px] lg:h-[840px] rounded-t-2xl shadow-[8px_-11px_22.2px_0px_rgba(0,0,0,0.08)] bg-center bg-contain bg-no-repeat"
               style={{ 
-                backgroundImage: `url('https://i.imgur.com/kCSo1AS.png')`
+                backgroundImage: `url('https://cdn.sydapp.com.br/allprice.app.br/kCSo1AS.webp')`
               }}
             />
           </div>

@@ -1,9 +1,9 @@
 import { CheckCircle2 } from "lucide-react";
 
 const IMAGES = {
-  tinyLogo: "https://i.imgur.com/dsElLLN.png",
-  blingLogo: "https://i.imgur.com/B0QuSQZ.png",
-  noErp: "https://i.imgur.com/Hyyk0xo.png"
+  tinyLogo: "https://cdn.sydapp.com.br/allprice.app.br/dsElLLN.webp",
+  blingLogo: "https://cdn.sydapp.com.br/allprice.app.br/B0QuSQZ.webp",
+  noErp: "https://cdn.sydapp.com.br/allprice.app.br/Hyyk0xo.webp"
 };
 
 const features = [
@@ -29,7 +29,7 @@ const FeatureImageTwo = () => {
           {/* Left side - Illustration */}
           <div className="relative w-full max-w-[256px] sm:max-w-[483px] mx-auto">
             <img
-              src="https://i.imgur.com/qIqGfbf.png"
+              src="https://cdn.sydapp.com.br/allprice.app.br/qIqGfbf.webp"
               alt="Woman checking WhatsApp notifications"
               className="w-full h-auto"
             />

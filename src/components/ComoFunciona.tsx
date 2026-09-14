@@ -4,9 +4,9 @@ import link from "@/assets/icons/link-icon.svg";
 
 // Image URLs - Replace these with your Imgur links
 const IMAGES = {
-  marketplaceCard: "https://i.imgur.com/zAPbcsU.png",
-  pricingCard: "https://i.imgur.com/jCXCiNc.png",
-  businessCard: "https://i.imgur.com/awGzvFf.png"
+  marketplaceCard: "https://cdn.sydapp.com.br/allprice.app.br/zAPbcsU.webp",
+  pricingCard: "https://cdn.sydapp.com.br/allprice.app.br/jCXCiNc.webp",
+  businessCard: "https://cdn.sydapp.com.br/allprice.app.br/awGzvFf.webp"
 };
 
 const ComoFunciona = () => {

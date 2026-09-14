@@ -4,7 +4,7 @@ Welcome to **AllPrice – The Smart Hub for Listings & Integrations**, a robust 
 
 You can access the [project's live website here](https://allprice.app.br/).
 
-![Project's Cover](https://i.imgur.com/7pWPKJD.png)
+![Project's Cover](https://cdn.sydapp.com.br/allprice.app.br/7pWPKJD.webp)
 
 > AllPrice simplifies your tech stack. One login, full control — across ERPs like Tiny and Bling, and marketplaces such as Mercado Livre, Shopee, and Mercado Livre Full.
 

@@ -1,9 +1,9 @@
 import { useEffect, useRef, useState } from "react";
 
 const IMAGES = {
-  tinyLogo: "https://i.imgur.com/dsElLLN.png",
-  blingLogo: "https://i.imgur.com/B0QuSQZ.png",
-  noErp: "https://i.imgur.com/Hyyk0xo.png"
+  tinyLogo: "https://cdn.sydapp.com.br/allprice.app.br/dsElLLN.webp",
+  blingLogo: "https://cdn.sydapp.com.br/allprice.app.br/B0QuSQZ.webp",
+  noErp: "https://cdn.sydapp.com.br/allprice.app.br/Hyyk0xo.webp"
 };
 
 const FeaturesWithImage = () => {
