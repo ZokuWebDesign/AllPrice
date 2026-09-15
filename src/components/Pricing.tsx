@@ -21,7 +21,7 @@ const features = [
 
 const Pricing = () => {
   return (
-    <section id="planos" className="bg-white">
+    <section id="pricing" className="bg-white">
       <div className="max-w-7xl mx-auto flex flex-col items-center py-[70px] px-4 lg:px-14">
         <div className="text-center max-w-4xl mb-12">
           <div className="flex justify-center mb-4">
